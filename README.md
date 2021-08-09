@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jdofalcon@protonmail.com**
 
-- ⚡ Fun fact **Before I wanted to be an actress 🌚**
+- ⚡ Fun fact **Before I wanted to be an actress or Lord Sith 🌚**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
