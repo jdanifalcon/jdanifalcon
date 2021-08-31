@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jessica Daniela O. Falcon</h1>
 <h3 align="center">A passionate Spatial Data Scientist from Tabasco, Mexico</h3>
 
+![alt text](https://github.com/jdanifalcon/jdanifalcon/blob/main/holis.png)
+
 - 🔭 I’m currently working on **Spatial Data Analysis**
 
 - 🌱 I’m currently learning **Machine learning, SQL, R and C++**
